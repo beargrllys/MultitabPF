@@ -1,5 +1,5 @@
 [submodule "themes/PaperMod"]
-    path = themes.PaperMod
+    path = themes/PaperMod
     url = "https://github.com/beargrllys/MultitabPF.git"
 [submodule "public"]
 	path = public
