@@ -2,3 +2,7 @@ baseURL: "https://beargrllys.github.io/"
 languageCode: en-us
 title: Multitab's Portfolio
 theme : PaperMod
+
+params:
+    assets:
+        disableFingerprinting: true
